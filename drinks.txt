@@ -1,0 +1,6 @@
+5
+20.00 Coke
+20.00 tea
+20.00 royal
+20.00 sprite
+10.00 water

@@ -1,0 +1,10 @@
+9
+86.00 Fried Chicken
+100.00 Chicken Fillet
+40.00 Hamburger
+90.00 Spicy Chicken
+500.00 Chicken Bucket
+70.00 spagheti
+95.00 Steak
+160.00 Double Chicken
+170.00 Double Spicy Chicken
